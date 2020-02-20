@@ -9,16 +9,20 @@
 
 }
 
-.navbar__fishes {
-
+.navbar a {
   
 }
 
-.navbar__locations {
+.navbar__fishes a {
+  text-decoration: none;
   
 }
 
-main {
+.navbar__locations a {
+  text-decoration: none;
+}
+
+.container-home {
   display: flex;
   justify-content: space-between;
 }
@@ -58,6 +62,29 @@ aside {
   /* align-self: flex-end; */
   margin: 15px;
   
+}
+
+
+
+/* .locations {
+  display: flex;
+  flex-flow: row wrap;
+
+} */
+
+.harvest-locations {
+  display: flex;
+}
+
+.harvest-locations__location {
+  margin: 10px;
+  border: 1px solid orchid;
+  background-color: aqua;
+}
+
+.harvest-locations__location img {
+  height: 200px;
+  width: 250px;
 }
 
 

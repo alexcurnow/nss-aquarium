@@ -8,9 +8,27 @@ const initializeDetailButtonEvents = () => {
   }
   // Show Bart's details when the button is clicked
   document
-    .querySelector('.details-btn')
+    .querySelector('#button--nasty')
     .addEventListener('click', theClickEvent => {
-      const theDialog = document.querySelector('.dialog--fish')
+      const theDialog = document.querySelector('#details--nasty')
+      theDialog.showModal()
+    })
+  document
+    .querySelector('#button--cyborg')
+    .addEventListener('click', theClickEvent => {
+      const theDialog = document.querySelector('#details--cyborg')
+      theDialog.showModal()
+    })
+  document
+    .querySelector('#button--spider')
+    .addEventListener('click', theClickEvent => {
+      const theDialog = document.querySelector('#details--spider')
+      theDialog.showModal()
+    })
+  document
+    .querySelector('#button--zeesh')
+    .addEventListener('click', theClickEvent => {
+      const theDialog = document.querySelector('#details--zeesh')
       theDialog.showModal()
     })
 }

@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles/main.css" />
+    <title>Martin's Aquarium</title>
+  </head>
+  <body>
+    <header>
+      <h1>Martin's Aquarium</h1>
+      <nav class="navbar">
+        <div class="navbar__fishes"><a href="#">Fishes</a></div>
+        <div class="navbar__locations"><a href="#">Locations</a></div>
+      </nav>
+    </header>
+
+    <main>
+      <article class="fishList">
+        <section class="fishlist__card">
+          <img
+            src="https://images.pexels.com/photos/128756/pexels-photo-128756.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500"
+            alt=""
+          />
+          <h3>Species</h3>
+          <h4>Nickname</h4>
+          <h4>Location</h4>
+          <h4>Diet</h4>
+        </section>
+
+        <section class="fishlist__card">
+          <img
+            src="https://cdn0.wideopenpets.com/wp-content/uploads/2019/10/Fish-Names-770x405.png"
+            alt=""
+          />
+          <h3>Species</h3>
+          <h4>Nickname</h4>
+          <h4>Location</h4>
+          <h4>Diet</h4>
+        </section>
+
+        <section class="fishlist__card">
+          <img
+            src="https://www.thesprucepets.com/thmb/KbQ0Y9A6yooZPvxrbhMGn1PdXAU=/1280x853/filters:no_upscale():max_bytes(150000):strip_icc()/step_2-telescope_goldfish-596f718f6f53ba0011f4f763.jpg"
+            alt=""
+          />
+          <h3>Species</h3>
+          <h3>length</h3>
+          <h4>Nickname</h4>
+          <h4>Location</h4>
+          <h4>Diet</h4>
+        </section>
+      </article>
+
+      <aside>
+        <article class="tankTips">
+          <section class="tankTips__tipCard">
+            <h3>Salinity Levels 1</h3>
+            <p>Here's how...</p>
+          </section>
+          <section class="tankTips__tipCard">
+            <h3>Salinity Levels 1</h3>
+            <p>Here's how...</p>
+          </section>
+          <section class="tankTips__tipCard">
+            <h3>Salinity Levels 1</h3>
+            <p>Here's how...</p>
+          </section>
+        </article>
+      </aside>
+    </main>
+
+    
+
+    <script src="scripts/main.js"></script>
+  </body>
+</html>
+
+<!-- 
+  What are the components?
+What are the properties of each fish that you will be representing in your HTML?
+    1. page one - lists fish 
+    2. page two - lists places *HARVEST* - quotes / tips
+    3. page one aside: keeping tank clean, water salinity & temp - blog style?
+    4. navbar
+    5. page two quotes and tips section (after navbar before locations)
+
+What are the properties of the fish care tips that Martin wants on the side?
+    - image, species, length, name, locaton harvested, diet
+
+What are the properties of the locations Martin has visited?
+    - image, name, climate, coords?
+
+What should be the class names for each?
+    - something semantic following the BEM model
+
+Which semantic tags should you use?
+    - header, main, article, ul, aside, nav
+
+How can we use Flexbox to build a better layout of fish and locations?
+Which CSS files should be created? Consider the @import keyword to modularize your styling.
+ -->

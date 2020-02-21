@@ -2,6 +2,7 @@
 
 .harvest-locations {
   display: flex;
+  justify-content: space-evenly;
 }
 
 .harvest-locations__location {
@@ -16,6 +17,10 @@
 }
 
 .collapse {
+  display: none;
+}
+
+.show {
   display: block;
 }
 

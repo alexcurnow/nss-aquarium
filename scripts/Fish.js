@@ -2,7 +2,7 @@ const Fish = fish => {
   return `
   <section class="fishlist__card">
           <img
-            src="${fish.img}"
+            src="${fish.image}"
             alt=""
           />
           <h3>${fish.name}</h3>

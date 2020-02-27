@@ -1,11 +1,7 @@
-import initializeDetailButtonEvents from './dialogs.js'
-import { useFish } from './scripts/FishDataProvider.js'
+import initializeDetailButtonEvents from './scripts/Dialogs.js'
 import FishList from './scripts/FishList.js'
+import renderLocations from './scripts/LocationsList.js'
 
-// const allTheFish = useFish()
-// import collapseTravelDetails from './CollapseMenu.js'
-// collapseTravelDetails()
-
-// initializeDetailButtonEvents()
 FishList()
+initializeDetailButtonEvents()
 

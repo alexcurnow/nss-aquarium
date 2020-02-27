@@ -2,7 +2,7 @@ import { useFish } from './FishDataProvider.js'
 import Fish from './Fish.js'
 
 const FishList = () => {
-  const contentElement = document.querySelector('.fishList')
+  let contentElement = document.querySelector('.fishList')
   const fishes = useFish()
 
     for (const fish of fishes) {

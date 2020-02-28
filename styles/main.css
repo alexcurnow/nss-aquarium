@@ -42,7 +42,7 @@
 }
 
 .fishlist__card {
-  border: 1px solid black;
+  border: 1px solid orchid;
   border-radius: 5px;
   margin: 5px;
   flex-shrink: inherit;
@@ -60,7 +60,6 @@ aside {
 }
 
 .tankTips__tipCard {
-  
   /* align-self: flex-end; */
   margin: 15px;
   

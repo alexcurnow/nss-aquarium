@@ -14,7 +14,7 @@ const Fish = fish => {
               <li>Species: ${fish.species}</li>
               <li>Location: ${fish.location}</li>
               <li>Length: ${fish.length}</li>
-              <li>Food: ${fish.food.join(",")}</li>
+              <li>Food: ${fish.food.join(", ")}</li>
             </ul>
             <button class="button--close">Close Dialog</button>
           </dialog>

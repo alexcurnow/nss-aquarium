@@ -7,30 +7,16 @@ const initializeDetailButtonEvents = () => {
     })
   }
   // Show Bart's details when the button is clicked
-  document
-    .querySelector('#button--Nasty')
-    .addEventListener('click', theClickEvent => {
-      const theDialog = document.querySelector('#details--Nasty')
+  const allDetailButtons = document.querySelectorAll("button[id^='button--']")
+  for (const btn of allDetailButtons) {
+    btn.addEventListener('click', theEvent => {
+      const dialogSiblingSelector = `#${theEvent.target.id}+dialog`
+      console.log(dialogSiblingSelector)
+      const theDialog = document.querySelector(dialogSiblingSelector)
+      console.log(theDialog)
       theDialog.showModal()
     })
-  document
-    .querySelector('#button--Cyborg')
-    .addEventListener('click', theClickEvent => {
-      const theDialog = document.querySelector('#details--Cyborg')
-      theDialog.showModal()
-    })
-  document
-    .querySelector('#button--Spider')
-    .addEventListener('click', theClickEvent => {
-      const theDialog = document.querySelector('#details--Spider')
-      theDialog.showModal()
-    })
-  document
-    .querySelector('#button--Zeesh')
-    .addEventListener('click', theClickEvent => {
-      const theDialog = document.querySelector('#details--Zeesh')
-      theDialog.showModal()
-    })
+  }
 }
 
 export default initializeDetailButtonEvents

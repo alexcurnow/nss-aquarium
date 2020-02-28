@@ -6,9 +6,8 @@ const Fish = fish => {
             alt=""
           />
           <h3>${fish.name}</h3>
-          <div>
+      
             <button class="details-btn" id="button--${fish.name}">Details</button>
-          </div>
           <dialog class="dialog--fish" id="details--${fish.name}">
             <ul>
               <li>Species: ${fish.species}</li>

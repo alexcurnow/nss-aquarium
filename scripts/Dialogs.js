@@ -11,9 +11,7 @@ const initializeDetailButtonEvents = () => {
   for (const btn of allDetailButtons) {
     btn.addEventListener('click', theEvent => {
       const dialogSiblingSelector = `#${theEvent.target.id}+dialog`
-      console.log(dialogSiblingSelector)
       const theDialog = document.querySelector(dialogSiblingSelector)
-      console.log(theDialog)
       theDialog.showModal()
     })
   }

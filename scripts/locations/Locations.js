@@ -3,13 +3,14 @@ const Location = locationDetails => {
   <section class="harvest-locations__location">
     <img src=${locationDetails.image} alt="">
     <h3>${locationDetails.name}</h3>
-    <button class="details-btn" id="${locationDetails.id}">Location Details</button>
-    <div >
-      <ul class="collapse">
-        <li>climate: ${locationDetails.climate}</li>
-        <li>coords: ${locationDetails.location}</li>
+    <button class="details-btn" id="button--${locationDetails.id}">Location Details</button>
+    <dialog class="dialog--fish" id="details--${locationDetails.name}">
+      <ul>
+        <li>Climate: ${locationDetails.climate}</li>
+        <li>Location: ${locationDetails.location}</li>
       </ul>
-    </div>
+      <button class="button--close">Close Dialog</button>
+    </dialog>
   </section>
   `
 }

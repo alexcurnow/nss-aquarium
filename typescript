@@ -1,107 +1,0 @@
-Script started on Thu Feb 27 14:29:41 2020
-]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquariumWelcome to your terminal, Alex. Today is Thu Feb 27 14:29:42 CST 2020 Happy coding :)
-Identity added: /Users/alexandercurnow/.ssh/id_rsa (alexcurnow@gmail.com)
-[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..pace/aquarium]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[2C [38;5;237malexandercurnow@Alexanders-MacBook-Pro-2[00m[43D[?1h=[?2004hssc[Kripts[1m/[0m[0m [?1l>[?2004l
-]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsDetailsButton.js         FishDataProvider.js      LocationsDataProvider.js TipsDataProvider.js
-Dialogs.js               FishList.js              LocationsList.js         TipsList.js
-Fish.js                  Locations.js             Tips.js
-[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004h...[?1l>[?2004l
-]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..pace/aquarium]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[2C [38;5;237malexandercurnow@Alexanders-MacBook-Pro-2[00m[43D[?1h=[?2004hmmk[Kdir fish       m[K[1C [38;5;237malexandercurnow@Alexanders-MacBook-Pro-2[00m[42D   s[Kctr  r
-[J[0mSCREEN_NO      [JSCRIPT         [Jscreen         [Jscreencapture  [Jscript         [J[1;31mscripts[0m/     [J[A[0m[27m[24m[60C scr[K SCREEN_NO[1m=[0m
-[J[7mSCREEN_NO    [0m  [JSCRIPT         [Jscreen         [Jscreencapture  [Jscript         [J[1;31mscripts[0m/     [J[A[0m[27m[24m[60C SCREEN_NO[1m=[0m[K
-[7mSCREEN_NO    [0m  [7mSCREEN_NO    [0m  [A[0m[27m[24m[60C SCREEN_NO[1m=[0m[KIPT[1m=[0m  [0m 
-[15C[7mSCRIPT       [0m  SCREEN_NO      [A[0m[27m[24m[60C SCRIPT[1m=[0m[K[8D screen[0m 
-[30C[7mscreen       [0m  [15CSCRIPT         [A[0m[27m[24m[60C screen[Kcapture
-[45C[7mscreencapture[0m  [30Cscreen         [A[0m[27m[24m[60C screencapture[K[10Dipt       
-[60C[7mscript       [0m  [45Cscreencapture  [A[0m[27m[24m[60C script[Ks[1m/[0m
-[75C[7mscripts/     [0m[60Cscript         [A[0m[27m[24m[60C scripts[1m/[0m[K
-[J[A[69C[0m [?1l>[?2004l
-[J]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hmmkdir fish tips locations[?1l>[?2004l
-]2;mkdir fish tips locations]1;mkdir[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsDetailsButton.js         FishList.js              Tips.js                  [1m[36mlocations[39;49m[0m
-Dialogs.js               Locations.js             TipsDataProvider.js      [1m[36mtips[39;49m[0m
-Fish.js                  LocationsDataProvider.js TipsList.js
-FishDataProvider.js      LocationsList.js         [1m[36mfish[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hmmv Fish.js fish
-[J[0mFish.js              [JFishDataProvider.js  [JFishList.js          [J[1;31mfish[0m/              [J[A[0m[27m[24m[68Cmv Fish.js fish[KF[3C.js
-[J[7mFish.js            [0m  [JFishDataProvider.js  [JFishList.js          [J[1;31mfish[0m/              [J[A[0m[27m[24m[68Cmv Fish.js Fish.js[K
-[7mFish.js            [0m  [7mFish.js            [0m  [A[0m[27m[24m[68Cmv Fish.js Fish.js[KDataProvider.js
-[21C[7mFishDataProvider.js[0m  Fish.js              [A[0m[27m[24m[68Cmv Fish.js FishDataProvider.js[K[15DList.js        [8D
-[42C[7mFishList.js        [0m  [21CFishDataProvider.js  [A[0m[27m[24m[68Cmv Fish.js FishList.js[K[11Df[3C[1m/[0m      
-[63C[7mfish/              [0m[42CFishList.js          [A[0m[27m[24m[68Cmv Fish.js fish[1m/[0m[K
-[J[A[84C[0m [?1l>[?2004l
-[J]2;mv Fish.js fish]1;mv[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hmmv FishDataProvider.js[1m [0m[0m fish[?1l>[?2004l
-]2;mv FishDataProvider.js fish]1;mv[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hmmv FishList.js[1m [0m[0m fish[?1l>[?2004l
-]2;mv FishList.js fish]1;mv[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsDetailsButton.js         LocationsDataProvider.js TipsDataProvider.js      [1m[36mlocations[39;49m[0m
-Dialogs.js               LocationsList.js         TipsList.js              [1m[36mtips[39;49m[0m
-Locations.js             Tips.js                  [1m[36mfish[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hmmv Tips.js tips[?1l>[?2004l
-]2;mv Tips.js tips]1;mv[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hmmv t TipsDara  taPo rovider.js[1m [0m[0m tips[?1l>[?2004l
-]2;mv TipsDataProvider.js tips]1;mv[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hmmv TipsList.js[1m [0m[0m tips[?1l>[?2004l
-]2;mv TipsList.js tips]1;mv[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsDetailsButton.js         Locations.js             LocationsList.js         [1m[36mlocations[39;49m[0m
-Dialogs.js               LocationsDataProvider.js [1m[36mfish[39;49m[0m                     [1m[36mtips[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hLLocatl[4C   l  LLocations.js          L  mmv Locations
-[J[0mLocations.js              [JLocationsDataProvider.js  [JLocationsList.js          [J[1;31mlocations[0m/              [J[A[0m[27m[24m[68Cmv Locations[K.js
-[J[7mLocations.js            [0m  [JLocationsDataProvider.js  [JLocationsList.js          [J[1;31mlocations[0m/              [J[A[0m[27m[24m[68Cmv Locations.js[K
-[7mLocations.js            [0m  [7mLocations.js            [0m  [A[0m[27m[24m[68Cmv Locations.js[K
-[J[A[83C[1m [0m[0m locations[?1l>[?2004l
-[J]2;mv Locations.js locations]1;mv[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hmmv LocationDaa taProvider.s              sDataProvider.js[1m [0m[0m location [Ks[?1l>[?2004l
-]2;mv LocationsDataProvider.js locations]1;mv[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsDetailsButton.js Dialogs.js       LocationsList.js [1m[36mfish[39;49m[0m             [1m[36mlocations[39;49m[0m        [1m[36mtips[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hmmv LocationsList.js[1m [0m[0m locations[?1l>[?2004l
-]2;mv LocationsList.js locations]1;mv[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004hlls[?1l>[?2004l
-]2;ls -G]1;lsDetailsButton.js Dialogs.js       [1m[36mfish[39;49m[0m             [1m[36mlocations[39;49m[0m        [1m[36mtips[39;49m[0m
-[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..arium/scripts]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium/scripts[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium/scripts[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[?1h=[?2004h...[?1l>[?2004l
-]2;..]1;..[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..pace/aquarium]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[2C [38;5;237malexandercurnow@Alexanders-MacBook-Pro-2[00m[43D[?1h=[?2004hggs[K[?1l>[?2004l
-]2;git status]1;gsOn branch adding-details-button-to-locations
-Changes not staged for commit:
-  (use "git add/rm <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	[31mdeleted:    locationPage.js[m
-	[31mmodified:   locations.html[m
-	[31mmodified:   main.js[m
-	[31mmodified:   scripts/DetailsButton.js[m
-	[31mmodified:   scripts/Dialogs.js[m
-	[31mdeleted:    scripts/Fish.js[m
-	[31mdeleted:    scripts/FishDataProvider.js[m
-	[31mmodified:   scripts/FishList.js[m
-	[31mdeleted:    scripts/Locations.js[m
-	[31mdeleted:    scripts/LocationsDataProvider.js[m
-	[31mdeleted:    scripts/LocationsList.js[m
-	[31mmodified:   styles/locations.css[m
-	[31mmodified:   styles/main.css[m
-
-Untracked files:
-  (use "git add <file>..." to include in what will be committed)
-	[31mscripts/fish/[m
-	[31mscripts/locations/[m
-	[31mscripts/tips/[m
-	[31mtypescript[m
-
-no changes added to commit (use "git add" and/or "git commit -a")
-[1m[7m%[27m[1m[0m                                                                                                        ]2;alexandercurnow@Alexanders-MacBook-Pro-2]1;..pace/aquarium]7;file://Alexanders-MacBook-Pro-2.local/Users/alexandercurnow/workspace/aquarium[0m[27m[24m[J[38;5;237m--------------------------------------------------------------------------------------------------------[00m
-[38;5;032m~/workspace/aquarium[38;5;075m([38;5;078madding-details-button-to-locations[38;5;214m*[00m[38;5;075m)[00m [38;5;105m»[00m [K[2C [38;5;237malexandercurnow@Alexanders-MacBook-Pro-2[00m[43D[?1h=[?2004h

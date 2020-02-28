@@ -1,7 +1,8 @@
 const Fish = fish => {
   return `
-  <section class="fishlist__card">
-          <img
+  <section class="fishList__card">
+          <img 
+            class="fishList__image"
             src="${fish.image}"
             alt=""
           />

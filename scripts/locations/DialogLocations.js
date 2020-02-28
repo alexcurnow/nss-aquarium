@@ -8,7 +8,7 @@ const initializeLocationDetailButtonEvents = () => {
     })
   }
 
-  const allDetailButtons = document.querySelectorAll("button[id^='button--']")
+  const allDetailButtons = document.querySelectorAll("[id^='button--']")
 
   for (const btn of allDetailButtons) {
     btn.addEventListener('click', theEvent => {

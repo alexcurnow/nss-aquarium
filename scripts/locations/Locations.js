@@ -1,7 +1,7 @@
 const Location = locationDetails => {
   return `
   <section class="harvest-locations__location">
-    <img src=${locationDetails.image} alt="">
+    <img class="harvest-locations__image" src=${locationDetails.image} alt="">
     <h3>${locationDetails.name}</h3>
     <button class="details-btn" id="button--${locationDetails.id}">Location Details</button>
     <dialog class="dialog--fish" id="details--${locationDetails.name}">

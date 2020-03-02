@@ -3,3 +3,4 @@ import initializeLocationDetailButtonEvents from "./DialogLocations.js";
 
 renderLocations()
 initializeLocationDetailButtonEvents()
+

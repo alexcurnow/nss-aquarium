@@ -25,7 +25,7 @@ const fishCollection = [
     name: 'Spider',
     species: 'bug-fish?',
     location: 'the web',
-    length: '15',
+    length: 18,
     food: ['other living things', 'tires', 'poo']
   },
 
@@ -46,6 +46,7 @@ export const useFish = () => {
 
 
 const fishData = useFish()
+
 
 const mostHolyFish = () => {
   const holyFish = []

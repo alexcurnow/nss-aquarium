@@ -18,3 +18,4 @@ const initializeDetailButtonEvents = () => {
 }
 
 export default initializeDetailButtonEvents
+  
